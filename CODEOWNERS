@@ -6,3 +6,11 @@
 
 /src/content/docs/ @rohalskyy
 /src/assets/screenshots/ @rohalskyy
+# These owners will be the default owners for everything in the repo
+
+* @andrii-bodnar
+
+# Content and screenshots
+
+/src/content/docs/ @rohalskyy
+/src/assets/screenshots/ @rohalskyy
